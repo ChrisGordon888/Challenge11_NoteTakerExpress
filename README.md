@@ -3,15 +3,15 @@ Note Taker is an application that allows users to write and save notes. This app
 
 
 # Table of Contents:
- - User Story
- - Acceptance Criteria
- - Getting Started
- - Prerequisites
- - Installation
- - Usage
- - Deployed Application
- - Technologies Used
- - License
+ - [User Story](#user-story)
+ - [Acceptance Criteria](#acceptance-criteria)
+ - [Getting Started](#getting-started)
+ - [Prerequisites](#prerequisites)
+ - [Installation](#installation)
+ - [Usage](#usage)
+ - [Deployed Application](#deployed-application)
+ - [Technologies Used](#technologies-used)
+ - [License](#license)
 
 
 ## User Story
@@ -28,10 +28,10 @@ When I click on the Write icon in the navigation at the top of the page, I am pr
 
 ## Getting Started
 To run the Note Taker application locally, follow these steps:
-1) Prerequisites
+1) Prerequisites - 
 Ensure you have the following software installed:
 Node.js (v14 or later)
-2) Installation
+2) Installation - 
 Clone the repository to your local machine using:
 git clone 'git@github.com:ChrisGordon888/Challenge11_NoteTakerExpress.git'
 Navigate to the project's directory.
@@ -42,7 +42,7 @@ Start the application using: npm start
 Open your web browser and navigate to http://localhost:3000 to access the Note Taker application.
 
 ## Deployed Application
-The Note Taker application has been deployed to Heroku and can be accessed at ().
+The Note Taker application has been deployed to GithubPages.
 
 
 ## Technologies Used
@@ -52,4 +52,4 @@ JSON
 Heroku
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License.
