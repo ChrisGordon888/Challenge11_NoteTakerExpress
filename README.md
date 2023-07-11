@@ -7,7 +7,6 @@ Note Taker is an application that allows users to write and save notes. This app
  - [Acceptance Criteria](#acceptance-criteria)
  - [Getting Started](#getting-started)
  - [Prerequisites](#prerequisites)
- - [Installation](#installation)
  - [Usage](#usage)
  - [Deployed Application](#deployed-application)
  - [Technologies Used](#technologies-used)
@@ -42,7 +41,7 @@ Start the application using: npm start
 Open your web browser and navigate to http://localhost:3000 to access the Note Taker application.
 
 ## Deployed Application
-The Note Taker application has been deployed to GithubPages.
+The Note Taker application has been deployed to my local browser at http://localhost:3000.
 
 
 ## Technologies Used
